@@ -1,0 +1,8 @@
+/dts-v1/;
+
+/ {
+    test-node {
+        compatible = "test,dtc";
+        status = "okay";
+    };
+};
