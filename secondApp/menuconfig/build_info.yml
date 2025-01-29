@@ -1,0 +1,4 @@
+west:
+  command: C:\ncs\toolchains\2d382dcd92\opt\bin\Scripts\west build -d menuconfig
+  topdir: C:\ncs\v2.8.0
+  version: 1.2.0
